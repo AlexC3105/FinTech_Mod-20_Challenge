@@ -1,6 +1,6 @@
 # Solidity Smart Contract
 
-# Background
+## Background
 
 A fintech startup company has recently hired you. This company is disrupting the finance industry with its own cross-border, Ethereum-compatible blockchain that connects financial institutions. Currently, the team is building smart contracts to automate many of the institutions' financial processes and features, such as hosting joint savings accounts.
 
@@ -60,7 +60,7 @@ To interact with your deployed smart contract, complete the following steps:
 1. Use the setAccounts function to define the authorized Ethereum address that will be able to withdraw funds from your contract.
 
    **Note**: You can either create dummy addresses on the [Vanity-ETH](https://vanity-eth.tk) website, which includes an Ethereum vanity address generator, or use the following Ethereum addresses:
-   
+
    - Dummy account1 address: 0x0c0669Cd5e60a6F4b8ce437E4a4A007093D368Cb
    - Dummy account2 address: 0x7A1f3dFAa0a4a19844B606CD6e91d693083B12c0
 
